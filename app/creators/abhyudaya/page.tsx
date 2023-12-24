@@ -14,7 +14,7 @@ const Error = () => {
           Return Back to the WebNote App
         </Button>
       </Link>
-      <h2 className="text-base font-light"><br /> <br /> I think I do have some true friends~ PP-A, SA-B</h2>
+      <h2 className="text-base font-light"><br /> <br /> I guess I do have some true friends~ PP-A, SA-B</h2>
     </div>
   );
 };

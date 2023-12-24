@@ -10,7 +10,7 @@ const Error = () => {
       
       <h2 className="text-xl font-medium">{"Hi there, I'm Abhyudaya, 18, and an Indian."} </h2>
           <Link href="/creators/sab">
-      <Button size="sm">
+      <Button variant="secondary" size="sm">
           <h2 className="text-base font-medium">Contributor~ SA-B <br/></h2>
         </Button>
       </Link>

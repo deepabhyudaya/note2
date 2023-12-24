@@ -15,9 +15,7 @@ export const Heading = () => {
       <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
         Just Another Ordinary Notes App!
       </h1>
-      <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-        Inspired by WattPad 
-      </h3>
+      
       {isLoading && (
         <div className="w-full flex items-center justify-center">
           <Spinner size="lg" />

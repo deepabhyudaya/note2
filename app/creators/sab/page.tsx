@@ -15,7 +15,7 @@ const Error = () => {
           <h2 className="text-base font-medium">Contributor~ ADV-A <br/></h2>
         </Button>
       </Link>
-    
+    <br/>
       <Link href="/">
       <Button size="sm">
           Return Back to ADV Note

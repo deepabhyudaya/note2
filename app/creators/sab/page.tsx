@@ -8,7 +8,7 @@ const Error = () => {
   return (
     <div className="h-full flex flex-col items-center justify-center px-6 space-y-4 text-center">
       
-      <h2 className="text-xl font-medium">{"hahaha I'm SA-B hahahaha "} <i>*continues the demonic laugh*</i></h2>
+      <h2 className="text-xl font-medium">{"hahaha I'm SA-B hahahaha "} <br/><i>*continues the demonic laugh*</i></h2>
           
 <Link href="/creators/abhyudaya">
       <Button variant="secondary" size="sm">

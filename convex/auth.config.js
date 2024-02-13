@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://prepared-flounder-20.clerk.accounts.dev",
+      domain: "https://darling-boxer-51.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],

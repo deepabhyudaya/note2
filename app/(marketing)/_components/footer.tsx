@@ -8,7 +8,7 @@ export const Footer = () => {
       <div className="md:ml-auto w-full justify-center md:justify-end flex items-center gap-x-2 text-muted-foreground">
        
         <Button variant="ghost" size="sm">
-          ©Abhyudaya 2023
+          ©Abhyudaya 2023-24
         </Button>
       </div>
     </div>

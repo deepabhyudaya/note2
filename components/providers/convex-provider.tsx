@@ -18,3 +18,4 @@ export const ConvexClientProvider = ({ children }: { children: ReactNode }) => {
     </ClerkProvider>
   );
 };
+
